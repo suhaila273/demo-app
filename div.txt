@@ -1,0 +1,3 @@
+gg=10
+hh=5
+cc=gg/hh
